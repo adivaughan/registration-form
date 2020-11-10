@@ -107,4 +107,5 @@ body {
     background-color: black;
     color: white;
     cursor: pointer;
+    border: 1px solid #fff;
 }
